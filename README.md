@@ -27,7 +27,7 @@ class anger:
         self.code = {
             'frontend': ['HTML', 'CSS'],
             'backend': ['Python', 'SQL'],
-            'database': ['MySQL', 'MSSQL', 'Mongo DB'],
+            'database': ['MySQL', 'MSSQL', 'Mongo DB', 'MariaDB'],
             'devops': ['Docker', 'Nginx', 'GitHub Actions', 'AWS', 'Heroku'],
             'tools': ['GIT', 'GitHub', 'GitLab', 'Nmap', 'Jupyter notebook', 'vim', 'Burp Suite', 'Excel'],
             'misc': ['GNU/Linux']
