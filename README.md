@@ -23,7 +23,6 @@ class anger:
         self.username = 'anger'
         self.name = 'Jax Dunfee'
         self.web = 'https://jax.to'
-        self.twitter = '@0xAnger'
         self.code = {
             'frontend': ['HTML', 'CSS'],
             'backend': ['Python', 'SQL'],
