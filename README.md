@@ -1,7 +1,7 @@
-<h1 align="center"> G'day! I'm Jax 🎆</h1>
+<h1 align="center"> G'day! I'm Jax Dunfee</h1>
 
 <p align="center">
-I'm a full-time student, on the path to a role in information security. In my free time, I participate in CTFs while also moderating r/gaming. You can find me outdoors, rock-climbing or skateboarding!
+I'm a full-time student studying Cyber Security Engineering with a minor in Chinese at George Mason University. In my free time, I participate in CTFs while also moderating r/gaming. You can find me outdoors, rock-climbing or skateboarding!
 </p>
 <p align="center"> 
 I love to talk to people from all walks of life, so always feel free to contact me! 
@@ -22,7 +22,7 @@ class anger:
     def __init__(self):
         self.username = 'anger'
         self.name = 'Jax Dunfee'
-        self.web = 'https://jax.to'
+        self.web = 'https://www.jax.to'
         self.code = {
             'frontend': ['HTML', 'CSS'],
             'backend': ['Python', 'SQL'],
