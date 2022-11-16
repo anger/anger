@@ -5,7 +5,7 @@
     <br>I'm a Cyber Security Engineering student at George Mason University.<br>
 
 </samp>
-<img src="https://raw.githubusercontent.com/anger/anger/master/assets/hollor_knight3.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/anger/anger/master/assets/run2.gif" width="200"/>
 
 </p>
 
