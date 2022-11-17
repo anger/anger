@@ -9,7 +9,6 @@
 
 </p>
 
-
 <details align="center">
 
 <summary> <b> <samp> Light bonfire </samp></b></summary>
