@@ -28,7 +28,7 @@ Current Project: <a href="https://github.com/anger/anger.github.io">My personal 
   <img src="https://raw.githubusercontent.com/anger/anger/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.jax.to/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://jaxd.dev/">
   <img src="https://raw.githubusercontent.com/anger/anger/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
