@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/anger/anger/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/anger/anger.github.io">My personal website.</a>
+Current Project: <a href="https://github.com/anger/puppycrush">Puppy Crush</a>
 
 <p align="center">
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/jaxdunfee/">
