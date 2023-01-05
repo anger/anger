@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.jax.to">Jax</a></b>.
+    Hello there, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.jax.to">Jax</a></b>.
     <br>I'm a Cyber Security Engineering Student studying at George Mason University.<br>
 
 </samp>
