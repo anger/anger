@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jaxd.dev">Jax</a></b>.
-    <br>I'm a Cyber Security Engineering Student studying at George Mason University.<br>
+    <br>I'm a Cyber Security Engineering Student studying at George Mason University<br>
 
 </samp>
 <img src="https://raw.githubusercontent.com/anger/anger/master/assets/run2.gif" width="200"/>
