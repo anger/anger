@@ -3,9 +3,7 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jaxd.dev">Jax</a></b>!
     <br>I'm a Cyber Security Engineering Student at George Mason University<br>
-
 </samp>
-
 </p>
 
 
