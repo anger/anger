@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jaxd.dev">Jax</a></b>!
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jax.dev">Jax</a></b>!
     <br>I'm a Cyber Security Engineering Student at George Mason University<br>
 </samp>
 </p>
@@ -19,7 +19,7 @@
   <img src="https://raw.githubusercontent.com/anger/anger/master/assets/twitter.png" width="30px" alt="Twitter"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://blog.jaxd.dev/">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://jax.dev/">
   <img src="https://raw.githubusercontent.com/anger/anger/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
 
