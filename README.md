@@ -7,6 +7,7 @@
     Some things I'm passionate about:
     - Web App Exploitation
     - CTFs
+    - climbing
     - dogs & cats
 </samp>
 </p>
