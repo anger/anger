@@ -8,7 +8,6 @@
     - Web App Exploitation
     - CTFs
     - climbing
-    - dogs & cats
 </samp>
 </p>
 
