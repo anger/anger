@@ -2,7 +2,8 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jax.dev">Jax</a></b>!
-    <br>I'm a student at George Mason University studying Cyber Security Engineering.<br>
+    <br>I'm a student at George Mason University studying Cyber Security Engineering.
+    <br>
     
     Some things I'm passionate about:
     - Web App Exploitation
