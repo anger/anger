@@ -8,7 +8,7 @@
     Some things I'm passionate about:
     - Web App Exploitation
     - CTFs
-    - climbing
+    - Rock Climbing
 </samp>
 </p>
 
