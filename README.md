@@ -6,7 +6,7 @@
     <br>
     
     Some things I'm passionate about:
-    - Web App Exploitation
+    - Web App & Binary Exploitation
     - CTFs
     - Rock Climbing
 </samp>
