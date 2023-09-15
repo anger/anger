@@ -21,10 +21,6 @@
   <img src="https://raw.githubusercontent.com/anger/anger/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/0xAnger">
-  <img src="https://raw.githubusercontent.com/anger/anger/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; 
-  &nbsp;
   <a rel="nofollow noopener noreferrer" target="_blank" href="https://jax.dev/">
   <img src="https://raw.githubusercontent.com/anger/anger/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
 </p> 
