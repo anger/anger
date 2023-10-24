@@ -4,7 +4,7 @@
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jax.dev">Jax</a></b>!
     <br>
     
-    Some things I'm passionate about:
+  Some things I'm passionate about:
     - Web App & Browser
     - CTFs
     - Rock Climbing
