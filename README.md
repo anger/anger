@@ -7,6 +7,7 @@
       <li>Web, Pwn & Browser Exploitation</li>
       <li>CTFs</li>
       <li>Rock Climbing</li>
+      <li>Skiing</li>
     </ul>
   </div>
 </div>
