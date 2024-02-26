@@ -8,6 +8,7 @@
       <li>CTFs</li>
       <li>Rock Climbing</li>
       <li>Skiing</li>
+      <li>Reading</li>
     </ul>
   </div>
 </div>
