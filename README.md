@@ -4,8 +4,7 @@
     <br><br>
     Some things I'm passionate about:
     <ul style="list-style-type: none; padding: 0;">
-      <li>Web, Pwn & Browser Exploitation</li>
-      <li>CTFs</li>
+      <li>CTFs: Web & Pwn</li>
       <li>Rock Climbing</li>
       <li>Skiing</li>
       <li>Reading</li>
