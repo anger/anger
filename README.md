@@ -11,4 +11,5 @@
     </ul>
   </div>
 </div>
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/53c0d181-9618-433d-9d35-523fa3738470](https://github.com/anger/anger/blob/main/castle.png');]{x0000}$}
