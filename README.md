@@ -11,20 +11,4 @@
       <li>Reading</li>
     </ul>
   </div>
-</div> 
-
-```math
-\mmlToken{ms}[fontfamily="
-color: transparent;
-pointer-events:none;
-z-index: -11;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-width: 130vw;
-opacity: 0.5;
-background: url('https://raw.githubusercontent.com/anger/anger/main/castle.png');
-"]{}
-
-```
+</div>
