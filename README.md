@@ -5,7 +5,6 @@
     Some things I'm passionate about:
     <ul style="list-style-type: none; padding: 0;">
       <li>CTFs</li>
-      <li>web & pwn</li>
       <li>Rock Climbing</li>
       <li>Skiing</li>
       <li>Reading</li>
