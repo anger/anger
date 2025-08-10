@@ -5,7 +5,7 @@
     I'm passionate about:
     <ul style="list-style-type: none; padding: 0;">
       <li>CTFs</li>
-      <li>Browser Engine Exploitation</li>
+      <li>Browser Engines</li>
       <li>Rock Climbing</li>
       <li>Skiing</li>
       <li>Reading</li>
